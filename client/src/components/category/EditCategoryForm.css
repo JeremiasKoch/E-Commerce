@@ -1,0 +1,19 @@
+.boxAddCat{
+  display: flex;
+  justify-content: center;
+}
+.addColorTitle{
+  color: white;
+  text-align: center;
+}
+.boxDivComponent{
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+}
+
+.box-button{
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}

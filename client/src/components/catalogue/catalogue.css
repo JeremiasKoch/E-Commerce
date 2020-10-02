@@ -1,0 +1,19 @@
+*{
+    list-style: none;
+}
+
+.searchList{
+    padding: 40px;
+    max-width: 600px;
+    margin: 10px auto;
+    color: white;
+}
+
+select{
+    width: 420px;
+}
+/* .row.row-cols-1.row-cols-md-4.containerProducts{
+    justify-content: center;
+    padding-right: 25px;
+    padding-left: 25px;
+} */

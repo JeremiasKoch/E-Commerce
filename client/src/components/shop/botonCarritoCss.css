@@ -1,0 +1,8 @@
+.buttomCarrito {
+    width: 71px;
+}
+
+.imgBox {
+    display: flex;
+    justify-content: flex-end;
+}

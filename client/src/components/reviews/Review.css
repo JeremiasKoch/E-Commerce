@@ -1,0 +1,15 @@
+.background{
+  background: #546191;
+  padding: 40px;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 1.25rem;
+  color: white
+  }
+
+  .buttonReview {
+    width: 30%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+  }

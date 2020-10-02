@@ -1,0 +1,25 @@
+.nav {
+    justify-content: center;
+    margin-top: 18px;
+}
+.btn.btn-outline-primary{
+    margin-bottom: 40px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.boxButtons{
+    display: flex;
+    justify-content: center;
+}
+
+.btn.btn-warning.extra.bbt{
+    background-color: hotpink;
+}
+.list-group-item.itemSett{
+    display: flex;
+    justify-content: space-between;
+}
+.list-group-item.itemSett.titleBox{
+    background-color: rgb(216, 216, 216);
+}

@@ -1,0 +1,36 @@
+.ingresa {
+    background: #546191;
+    padding: 40px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 1.25rem;
+    color: white
+}
+form.formIngreso {
+    width: 800px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    text-align: left;
+    padding-right: 2rem;
+  }
+  
+  .message {
+    width: 800px;
+    padding: 10px;
+    display: flex;
+    align-items: right;
+    margin: 5px 0 0;
+    color: #923737;
+    font-size: 15px;
+    padding: 10px;
+  } 
+  .message a {
+    color: #7a69a8;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px;
+    text-align: right;
+  }

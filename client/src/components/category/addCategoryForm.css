@@ -1,0 +1,28 @@
+.boxAddCat{
+    display: flex;
+    justify-content: center;
+}
+.addColorTitle{
+    color: white;
+}
+.boxDivComponent{
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+}
+
+.btn.btn-primary.box-button {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.addCat{
+    background: #546191;
+    padding: 40px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 1.25rem;
+    box-shadow: 0 4px 10px 4px rgba(214, 209, 226, .3);
+    color: white
+}

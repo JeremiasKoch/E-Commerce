@@ -1,0 +1,25 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.mr-2.btnHome{
+  margin-left: .5rem;
+}
+
+.buttonDisableStyle {
+  background-color: rgb(135, 251, 216);
+  border: none;
+  color: black;
+  border-radius: 0.25rem;
+  padding: 6px;
+  font-size: 16px;
+}
+
+.buttonLogoutStyle{
+  background-color: rgb(235, 95, 70);
+  border: none;
+  color: black;
+  border-radius: 0.25rem;
+  padding: 6px;
+  font-size: 16px;
+}

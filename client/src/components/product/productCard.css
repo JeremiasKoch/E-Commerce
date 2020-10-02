@@ -1,0 +1,9 @@
+.backgroud{
+  background: #546191;
+  box-shadow: 0 4px 10px 4px rgba(214, 209, 226, .3);
+  color: white;
+}
+
+.img-thumbnail.card-img-top.imgSinStock {
+    filter: grayscale(100%);
+}
